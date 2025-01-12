@@ -1,0 +1,1 @@
+The Iris dataset is a classic and well-known dataset in the field of machine learning. It comprises information about three different species of Iris flowers: Iris setosa, Iris versicolor, and Iris virginica. This dataset is often employed for various tasks such as classification, pattern recognition, and data visualization.
